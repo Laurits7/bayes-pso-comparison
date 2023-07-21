@@ -1,0 +1,8 @@
+xgboost
+numpy
+matplotlib
+sklearn
+pandas
+docopt
+modAl
+chaospy
